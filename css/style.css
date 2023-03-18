@@ -266,7 +266,7 @@ footer{
         z-index: -1;
       }
       
-      .flip-card:hover {
+      .flip-card.flipped {
         transform: rotateY(180deg);
       }
 }
