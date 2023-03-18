@@ -210,7 +210,7 @@ footer{
 @media screen and (min-width: 780px){
 
 	body{
-		background-color: rgb(23xsx3, 223, 223);
+		background-color: rgb(233, 223, 223);
 	}
     .title{
         text-align:right;
@@ -428,7 +428,7 @@ footer{
     }
     
     body{
-        background-color:#FDFCD7;
+        background-color: rgb(233, 223, 223);
     }
     .grid{
         grid-template-columns: 30% 30% 30%;
@@ -444,7 +444,7 @@ footer{
     .flip-card {
         width: 50%;
         height:200px;
-        border:1px solid cornsilk;
+        border:2px solid cornsilk;
         border-radius: 5px;
         perspective: 1000px;
         position: relative;
